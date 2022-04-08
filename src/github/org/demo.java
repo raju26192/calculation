@@ -1,6 +1,11 @@
 package github.org;
 
 public class demo {
+	private void add() {
+		System.out.println("add 1 new");
+		System.out.println("add 2 ");
+
+	}
 	public static void main(String[] args) {
 		int a=13;
 		int b=55;
