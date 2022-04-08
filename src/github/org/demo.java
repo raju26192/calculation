@@ -2,7 +2,7 @@ package github.org;
 
 public class demo {
 	private void add() {
-		System.out.println("add1");
+		System.out.println("add 1 new");
 
 	}
 	public static void main(String[] args) {
